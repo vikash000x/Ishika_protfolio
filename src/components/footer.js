@@ -26,7 +26,7 @@ export const Footer = () => {
       <div>
         
       </div>
-      <div className="flex mb-32 gap-10">
+      {/* <div className="flex mb-32 gap-10">
         <div className="hover:bg-blue-800  transform transition duration-500 hover:scale-125 cursor-pointer border p-4 rounded-full">
           <a href={Bio.linkedin} target="_blank">
             <FaLinkedin size={25} color="white" />
@@ -47,7 +47,7 @@ export const Footer = () => {
             <FaTwitter size={25} color="white" />
           </a>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
